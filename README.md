@@ -3,5 +3,5 @@
 1. Linear linked list (singly)
 2. circular linked list(singly)
 
-==Navigate to files==
+Navigate to files
 - cpp > <file_name>.
